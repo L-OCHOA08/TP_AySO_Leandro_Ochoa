@@ -1,1 +1,3 @@
-# TP_AySO_Leandro_Ochoa
+# TP_AySO_Leandro_OchoaAlumno: Leandro
+División: 115
+Turno: Mañana
